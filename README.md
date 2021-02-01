@@ -9,7 +9,7 @@
 * [Borja Ponz](https://github.com/fbponz)
 
 # 1) kiribati-dp2
-Objetivo del proyecto ser capaces de leer información de una cuenta de Twitter y responder. Una vez leídos los tweets, se cruza la información obtenida y se busca el mejor match de las opciones disponibles. COn este resultado, se debe responder al tweet anterior en el menor timepo posible. 
+Objetivo del proyecto ser capaces de leer información de una cuenta de Twitter y responder. Una vez leídos los tweets, se cruza la información obtenida y se busca el mejor match de las opciones disponibles. Con este resultado, se debe responder al tweet anterior en el menor timepo posible. 
 
 ## 1.1) Video 
 Enlace video demostrativo del MVP.
